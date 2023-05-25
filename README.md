@@ -8,4 +8,4 @@
 3. Для полученных векторов попарно найдите косинусное расстояние (попробуйте сделать это без цикла, с помощью матричных операций).
 4. Задайте какой-то порог значимости, на основе которого вы будете судить о том, похожи два текста или нет.
 
-Более подробно с решением задачи можно ознакомиться в (text_vectorization_draft.ipynb)[https://github.com/IAskarov/TF-IDF_W2V/blob/master/text_vectorization_draft.ipynb]
+Более подробно с решением задачи можно ознакомиться в [text_vectorization_draft.ipynb](https://github.com/IAskarov/TF-IDF_W2V/blob/master/text_vectorization_draft.ipynb)
